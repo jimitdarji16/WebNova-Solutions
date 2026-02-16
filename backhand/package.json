@@ -1,0 +1,17 @@
+{
+  "name": "webnova-backend",
+  "version": "1.0.0",
+  "description": "Backend server for WebNova Solutions contact form",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "keywords": ["webnova", "backend", "contact-form"],
+  "author": "WebNova Solutions",
+  "license": "MIT"
+}
